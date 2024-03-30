@@ -18,14 +18,15 @@ To run this application locally, follow these steps:
 3. Install dependencies using npm or yarn:
     ```bash
     npm install
-# or
+### or
     yarn install
 
 4. Start the development server:
     ```bash
     npm run dev
-# or
-yarn dev
+    or
+    ```bash
+    yarn dev
 
 5. Open your browser and navigate to http://localhost:3000 to view the app.
 

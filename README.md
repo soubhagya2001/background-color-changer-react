@@ -13,7 +13,7 @@ To run this application locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd color-picker-app
+    cd background-color-changer-react
 
 3. Install dependencies using npm or yarn:
     ```bash

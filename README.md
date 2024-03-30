@@ -18,15 +18,10 @@ To run this application locally, follow these steps:
 3. Install dependencies using npm or yarn:
     ```bash
     npm install
-### or
-    yarn install
 
 4. Start the development server:
     ```bash
     npm run dev
-    or
-    ```bash
-    yarn dev
 
 5. Open your browser and navigate to http://localhost:3000 to view the app.
 
@@ -34,17 +29,19 @@ To run this application locally, follow these steps:
 ## Usage
 Once the app is running, you can click on the color buttons to change the background color of the app. The available colors are Red, Green, Blue, Olive, Gray, and Yellow.
 
+
 ## Technologies Used
-React: A JavaScript library for building user interfaces.
-Vite: A fast development build tool for modern web applications.
+React: A JavaScript library for building user interfaces. <br>
+Vite: A fast development build tool for modern web applications. <br>
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
 
 ## Folder Structure
 The project structure is organized as follows:
 
-src: Contains the source code of the React components and styles.
-App.js: Main component that renders the color picker buttons.
-index.html: HTML entry point for the application.
+src: Contains the source code of the React components and styles. <br>
+App.js: Main component that renders the color picker buttons. <br>
+index.html: HTML entry point for the application.<br>
 README.md: Documentation for the project.
 package.json: Configuration file for npm dependencies and scripts.
 
